@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zzwangbo
+- 👋 Hi, I’m wangbo
 - 👀 I’m interested in comic
 - 🌱 I’m currently learning code
 - 📫 qq:627634493
